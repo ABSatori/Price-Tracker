@@ -1,0 +1,6 @@
+{
+  "name": "Price Tracker Scraper",
+  "description": "A web application to track product prices across different retailers, featuring scraping capabilities and AI-powered product suggestions.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}

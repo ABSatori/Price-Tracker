@@ -1,0 +1,102 @@
+
+[
+  {
+    "id": "walmart-ades-soya-946ml",
+    "tienda": "walmart",
+    "marca": "Ades",
+    "item_original": "Bebida Ades Soya Sin Azucar Sabor Natural 946 Ml",
+    "producto_base_sugerido": "Bebida Ades Soya Sin Azucar",
+    "variante_sugerida": "946ml",
+    "sabor_sugerido": "Natural",
+    "upc": "7501005100001"
+  },
+  {
+    "id": "bodega-ades-soya-946ml",
+    "tienda": "bodega",
+    "marca": "Ades",
+    "item_original": "Bebida de Soya AdeS sin Azúcar 946 ml",
+    "producto_base_sugerido": "Bebida de Soya AdeS sin Azúcar",
+    "variante_sugerida": "946ml",
+    "sabor_sugerido": "Natural",
+    "upc": "7501005100002"
+  },
+  {
+    "id": "soriana-ades-soya-946ml",
+    "tienda": "soriana",
+    "marca": "Ades",
+    "item_original": "Bebida Soya Ades Natural S/A 946Ml",
+    "producto_base_sugerido": "Bebida Soya Ades Natural S/A",
+    "variante_sugerida": "946ml",
+    "sabor_sugerido": "Natural",
+    "upc": "7501005100003"
+  },
+  {
+    "id": "walmart-sprite-500ml",
+    "tienda": "walmart",
+    "marca": "Sprite",
+    "item_original": "Refresco Sprite Lima-Limón 500 ml",
+    "producto_base_sugerido": "Refresco Sprite",
+    "variante_sugerida": "500ml",
+    "sabor_sugerido": "Lima-Limón",
+    "upc": "7501055300011"
+  },
+  {
+    "id": "bodega-sprite-500ml",
+    "tienda": "bodega",
+    "marca": "Sprite",
+    "item_original": "Sprite Refresco Sabor Lima Limon Botella 500 Ml",
+    "producto_base_sugerido": "Sprite Refresco",
+    "variante_sugerida": "500ml",
+    "sabor_sugerido": "Lima Limon",
+    "upc": "7501055300012"
+  },
+  {
+    "id": "soriana-sprite-500ml",
+    "tienda": "soriana",
+    "marca": "Sprite",
+    "item_original": "REF SPRITE REG PET 500ML",
+    "producto_base_sugerido": "REF SPRITE REG PET",
+    "variante_sugerida": "500ml",
+    "sabor_sugerido": "Lima-Limón",
+    "upc": "7501055300013"
+  },
+  {
+    "id": "walmart-coca-cola-3l",
+    "tienda": "walmart",
+    "marca": "Coca-Cola",
+    "item_original": "Refresco Coca-Cola Sabor Original 3 l",
+    "producto_base_sugerido": "Refresco Coca-Cola Sabor Original",
+    "variante_sugerida": "3L",
+    "sabor_sugerido": "Original",
+    "upc": "7501055300021"
+  },
+  {
+    "id": "bodega-coca-cola-3l",
+    "tienda": "bodega",
+    "marca": "Coca-Cola",
+    "item_original": "Coca Cola Refresco Sabor Original de 3 L",
+    "producto_base_sugerido": "Coca Cola Refresco Sabor Original",
+    "variante_sugerida": "3L",
+    "sabor_sugerido": "Original",
+    "upc": "7501055300022"
+  },
+  {
+    "id": "soriana-coca-cola-3l",
+    "tienda": "soriana",
+    "marca": "Coca-Cola",
+    "item_original": "REF COCA COLA REG PET 3L",
+    "producto_base_sugerido": "REF COCA COLA REG PET",
+    "variante_sugerida": "3L",
+    "sabor_sugerido": "Original",
+    "upc": "7501055300023"
+  },
+  {
+    "id": "walmart-pepsi-2l",
+    "tienda": "walmart",
+    "marca": "Pepsi",
+    "item_original": "Refresco Pepsi 2 l",
+    "producto_base_sugerido": "Refresco Pepsi",
+    "variante_sugerida": "2L",
+    "sabor_sugerido": "Original",
+    "upc": "7501031311549"
+  }
